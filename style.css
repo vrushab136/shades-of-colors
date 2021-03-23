@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+/** {
+    border: solid;
+}*/
+.header{
+    background-color: rgb(195, 0, 255);
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-start;
+
+}
+p.h2{
+    text-align: center;
+}
+body{
+    background-color: #ff3838;
+}
